@@ -22,6 +22,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": ""
+    "description": "Photo Gallery App with touch, motion, gesture, and speech API sensors",
+    "githubUrl": "https://github.com/nitingupta776/PhotoGalleryReactNativeApp"
   }
 }

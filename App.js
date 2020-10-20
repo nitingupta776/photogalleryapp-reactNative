@@ -81,16 +81,6 @@ export default class App extends React.Component {
 
         <Button title="Left" onPress={() => this.scrollImageToLeft()} />
         <Button title="Right" onPress={() => this.scrollImageToRight()} />
-        <Image
-          source={require("./assets/mic_image.png")}
-          style={{
-            width: 75,
-            height: 75,
-            marginVertical: 50,
-            alignSelf: "center",
-            resizeMode: "contain",
-          }}
-        />
       </SafeAreaView>
     );
   }
